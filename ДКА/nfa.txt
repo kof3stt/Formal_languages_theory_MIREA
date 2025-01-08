@@ -1,0 +1,20 @@
+Set of states:
+1
+2
+3
+4
+The input alphabet:
+a
+b
+State-transitions function (current state, input character, next state):
+1 a 1
+1 b 1
+1 a 2
+2 a 3
+2 b 3
+3 a 4
+3 b 4
+A set of initial states:
+1
+A set of final states:
+4

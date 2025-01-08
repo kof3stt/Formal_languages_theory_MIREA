@@ -1,0 +1,11 @@
+/* Начало программы */
+{
+dim i integer;
+dim total integer;
+dim flag boolean;
+for i as 0 to 0100 do [i as total<=7AbcH:[total as total+1
+while (true and not total*3) do write(flag,i,total)]];
+read(total);
+if total = 0 then write(1+1,10/0,2<=2,0.12e+5);
+}
+/*Конец программы*/
